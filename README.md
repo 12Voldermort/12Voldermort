@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligent**
 
-- 📫 How to reach me **bandarawd50@gmail.com**
+- 📫 How to reach me **http://127.0.0.1/**
 
 - ⚡ Fun fact **Call Me As Voldermort**
 
